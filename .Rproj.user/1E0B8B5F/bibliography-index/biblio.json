@@ -1,0 +1,133 @@
+{
+    "sources": [
+        {
+            "ISBN": "978-987-1432-90-5",
+            "author": [
+                {
+                    "family": "Cáceres",
+                    "given": "Ivan"
+                }
+            ],
+            "collection-title": "Inter/Cultura=Memoria+Patrimonio.",
+            "container-title": "Historias desaparecidas. Arqueología, memoria y violencia política",
+            "edition": "1",
+            "id": "caceresChileOperacionRetiro2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "language": "es-ES",
+            "page": "61-78",
+            "publisher": "Brujas",
+            "publisher-place": "Córdoba",
+            "title": "Chile; operación “Retiro de Televisores”: Desaparecer a los Desaparecidos",
+            "title-short": "Chile; operación “Retiro de Televisores”",
+            "type": "chapter"
+        },
+        {
+            "abstract": "En el primer capítulo de esta memoria se expone una introducción general al problema planteado, en que se explicitan los objetivos que la guían. En el segundo capítulo, se entregan los antecedentes generales del problema de investigación, definiendo conceptos básicos de esta forma de hacer arqueología, y se entregan antecedentes sobre el estado del problema en Latinoamérica. El capítulo tercero se centra en el análisis de la muerte violenta y su doble negación, tanto por los familiares como por la institucionalidad del Estado. En el capítulo cuarto, se expone el problema global del delito de desaparición forzada de personas y las bases jurídicas que la relacionan con la arqueología en nuestro país. El capítulo quinto discute el tema de la memoria y cómo es usada en la arqueología de la violencia política. En el sexto capítulo se exponen los primeros hallazgos de detenidos desaparecidos y los trabajos arqueológicos iniciales en Chile. El capítulo siete presenta cuatro sitios de violaciones a los derechos humanos en que hemos participado y se exponen los problemas que se derivan de nuestro acercamiento como arqueólogos a este tipo de sitios. En el capítulo ocho se exponen aspectos relacionados con su conservación de las materialidades biológicas y culturales asociadas, así como de los problemas que en ese ámbito se encuentran pendientes. El capítulo nueve expone la operación “Retiro de Televisores”, que consistió en la intervención por parte de los perpetradores de numerosos sitios de inhumación para ocultar los crímenes, con la consiguiente pérdida de información biológica y cultural de las víctimas. El capítulo diez expone los errores médico legales que se han cometido en la identificación de víctimas, cuyos cuerpos han sido recuperados desde estos sitios por numerosos arqueólogos. El capítulo once presenta las reflexiones arqueológicas finales que surgen de lo anteriormente expuesto. El capítulo doce presente un anexo con exhumaciones y excavaciones arqueológicas.",
+            "author": [
+                {
+                    "family": "Cáceres",
+                    "given": "Ivan"
+                }
+            ],
+            "genre": "Pregrado",
+            "id": "caceresDetenidosDesaparecidosChile2011",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "language": "es-ES",
+            "number-of-pages": "142",
+            "publisher": "Universidad de Chile",
+            "publisher-place": "Santiago",
+            "title": "Detenidos desaparecidos en Chile — Arqueología de la muerte negada memoria",
+            "type": "thesis"
+        },
+        {
+            "DOI": "10.48102/hyg.vi56.354",
+            "ISSN": "2448-783X, 1405-0927",
+            "URL": "https://www.revistahistoriaygrafia.com.mx/index.php/HyG/article/view/354",
+            "abstract": "El objetivo del artículo es presentar y discutir el concepto de fosa clandestina, aterrizándolo al contexto mexicano y al caso de Guanajuato. Se construye un estado del arte y una panorámica conceptual para dar cuenta de la evolución en el uso y en los significados del concepto de fosa clandestina a nivel internacional y especialmente en México, en el ámbito de la crisis de derechos humanos y de violencia actual. Con fuentes hemerográficas y documentos oficiales se analiza la situación de las fosas clandestinas en Guanajuato y la postura de la Fiscalía estatal al respecto. Finalmente, se hace un balance crítico del proceso legislativo de la Ley de Búsqueda de Personas Desaparecidas del Estado de Guanajuato y de las propuestas de definición de fosa clandestinas que, aunque no fueron incluidas, contribuyeron al debate público sobre este fenómeno y se pueden interpretar como parte de una disputa política y social.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        3,
+                        19
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Lorusso",
+                    "given": "Fabrizio"
+                }
+            ],
+            "container-title": "Historia y Grafía",
+            "container-title-short": "HyG",
+            "id": "lorussoDiscusionSobreConcepto2020",
+            "issue": "56",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        8
+                    ]
+                ]
+            },
+            "page": "129-170",
+            "title": "Una discusión sobre el concepto de fosa clandestina y el contexto mexicano: El caso de Guanajuato",
+            "title-short": "Una discusión sobre el concepto de fosa clandestina y el contexto mexicano",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Torres",
+                    "given": "Isabel"
+                }
+            ],
+            "container-title": "Estudios",
+            "id": "torresRolServicioMedico2014",
+            "issue": "31",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "language": "es-ES",
+            "page": "157-180",
+            "title": "El rol del Servicio Médico Legal (SML) en la identificación de los detenidos desaparecidos en Chile",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Zepeda",
+                    "given": "José"
+                }
+            ],
+            "container-title": "Open Democracy",
+            "id": "zepedaSerieChile50",
+            "title": "Serie Chile, 50 años del golpe militar / Entrevista a Nelson Caucoto.",
+            "type": "article-newspaper"
+        },
+        {
+            "id": "elrold",
+            "title": "El rol del servicio médico legal (SML) en la identificación de los detenidos desaparecidos en chile.",
+            "type": "article-journal"
+        }
+    ],
+    "project_biblios": []
+}
